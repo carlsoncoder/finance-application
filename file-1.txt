@@ -1,2 +1,3 @@
 This is the creation of the file
+This is an edit.  This was made from the "first-change-branch" branch
 Now this is an edit I made on the "master" branch, AFTER making the change in "first-change-branch", but before I merged that branch back to MASTER
